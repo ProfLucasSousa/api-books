@@ -31,7 +31,7 @@
     },
     {
       "id": 6,
-      "imagem": "https://raw.githubusercontent.com/prof-lucassilva/api-books/main/imgs/Guia%20Front-End.png",
+      "imagem": "https://raw.githubusercontent.com/prof-lucassilva/api-books/main/imgs/Guia-Front-End.png",
       "titulo": "Guia Front-End",
       "resumo": "Um guia abrangente para desenvolvedores iniciantes e avançados sobre as melhores práticas em desenvolvimento Front-End."
     },
